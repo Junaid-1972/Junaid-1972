@@ -60,7 +60,7 @@ Featured Repositories
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Junaid-1972/SETTING-UP-A-VIRTUAL-LAB-ENVIRONMENT) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Junaid-1972/Active-Directory-Simulation---Cyberwelfare-Solutions) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/Junaid-1972/AWS-IAM-Cloud-Security-Project-For-Cybersoldier-Solution) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Junaid-1972/Security-Policy-Development) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Junaid-1972/Vulnerability-Assessment) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
