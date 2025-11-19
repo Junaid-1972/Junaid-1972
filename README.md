@@ -66,7 +66,7 @@ Featured Repositories
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Junaid-1972/MITRE-THREAT-HUNT.) |
-| 09-threat-modeling | Web Application threat modeling |  [View Repo](#) |
+| 09-threat-modeling | Web Application threat modeling |  [View Repo](https://github.com/Junaid-1972/Threat-Modeling) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
