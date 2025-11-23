@@ -63,7 +63,7 @@ Featured Repositories
 | 03-AWS-deployment | Configuring and hardening Cloud console in AWS | [View Repo](https://github.com/Junaid-1972/AWS-IAM-Cloud-Security-Project-For-Cybersoldier-Solution) |
 | 04-security-policy-dev | Crafting Vulnerability management and Acceptable encryption stantard policy | [View Repo](https://github.com/Junaid-1972/Security-Policy-Development) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Junaid-1972/Vulnerability-Assessment) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Junaid-1972/Splunk-Security-Alerting) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Junaid-1972/MITRE-THREAT-HUNT.) |
 | 09-threat-modeling | Web Application threat modeling |  [View Repo](https://github.com/Junaid-1972/Threat-Modeling) |
