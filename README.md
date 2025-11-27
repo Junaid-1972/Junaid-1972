@@ -67,7 +67,7 @@ Featured Repositories
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Junaid-1972/MITRE-THREAT-HUNT.) |
 | 09-threat-modeling | Web Application threat modeling |  [View Repo](https://github.com/Junaid-1972/Threat-Modeling) |
-| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Junaid-1972/Phishing-Simulation) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
