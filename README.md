@@ -69,7 +69,7 @@ Featured Repositories
 | 09-threat-modeling | Web Application threat modeling |  [View Repo](https://github.com/Junaid-1972/Threat-Modeling) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Junaid-1972/Phishing-Simulation) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Junaid-1972/Phishing-Email-Forensics) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Junaid-1972/Linux-Permission-Audit) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
