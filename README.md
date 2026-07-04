@@ -1,6 +1,19 @@
-**JUNAID ABDULRAHMAN A** Cybersecurity Analyst
+**JUNAID ABDULRAHMAN A** Cybersecurity Analyst/Ethical Hacker
 
-👋 Hello! I’m **JUNAID ABDULRAHMAN A**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I’m **JUNAID ABDULRAHMAN A**, a results-driven **Cybersecurity Analyst and Ethical Hacker** with over **three years** of hands-on experience securing cloud and on-premises infrastructures.
+
+My expertise includes:
+- **Threat Detection**
+- **Vulnerability Assessment & Management**
+- **Penetration Testing**
+- **Continuous Security Monitoring**
+
+I combine blue-team and red-team approaches to proactively identify and mitigate security risks, with a strong passion for breaking systems to make them more secure.
+
+---
+
+### About This Repository
+This repository showcases my personal lab projects, Capture The Flag (CTF) write-ups, penetration testing reports, and reference guides. It demonstrates my technical depth, continuous learning, and commitment to **secure-by-design** principles.
 
 ---
 
