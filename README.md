@@ -84,7 +84,7 @@ Featured Repositories
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Junaid-1972/Phishing-Email-Forensics) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Junaid-1972/Linux-Permission-Audit) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Junaid-1972/Malware-Analysis) |
 | 15-ai-log-analyser | AI-Driven Cybersecurity Log Analyser | [View Repo](https://github.com/Junaid-1972/AI-Driven-Log-Analyser) |
 
 ---
